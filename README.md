@@ -46,9 +46,9 @@
 <div align="center">
   <table style="border-collapse: collapse; border: none;">
     <tr style="border: none;">
-      <td align="center" style="border: none; padding: 10px;">
+      <!--<a <td align="center" style="border: none; padding: 10px;">
         <img height="180" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=Pizate&rank_icon=github&show_icons=true&theme=radical&title_color=FE428E&count_private=true" alt="Estatísticas do GitHub" />
-      </td>
+      </td> a>  -->
       <td align="center" style="border: none; padding: 10px;">
         <img height="180" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=Pizate&layout=compact&theme=radical&title_color=FE428E&count_private=true" alt="Linguagens mais usadas" />
       </td>
